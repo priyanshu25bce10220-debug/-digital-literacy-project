@@ -21,7 +21,8 @@ The project consists of five modules, each focusing on a key area of digital lit
 
 - 📁 GitHub Repository: (https://github.com/priyanshu25bce10220-debug)
 - 📝 Google Form (Task 3): (https://docs.google.com/forms/d/e/1FAIpQLSfhdaTHaGqm5snSEegjlm91AI38qWwIzJau5D4qNmLjlIt8fQ/viewform?usp=publish-editor)
-- 🎨 Infographic (Task 1): (https://canva.link/hyk9rp6et3yxe2s)
+<img width="1904" height="901" alt="Screenshot response sheet google form" src="https://github.com/user-attachments/assets/1f15cbbb-f1f7-4157-851e-1098fd17a6f6" />
+
 
 ---
 
